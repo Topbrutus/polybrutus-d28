@@ -24,6 +24,15 @@ python tests/independent_d28.py
 
 Both scripts print the identical SHA-256 of the deterministic `results/certificate_d28.json`. The frozen parent scientific tag and its source/certificates are archived as ordinary files under `prior/d27/` (no nested Git submodule).
 
+## Official DOI and reproducibility evidence
+
+- **Official Zenodo DOI:** [10.5281/zenodo.24410652](https://doi.org/10.5281/zenodo.24410652).
+- **Public record:** https://zenodo.org/records/24410652 ; all 3 artifacts checked by public Zenodo API for sizes and MD5.
+- **Frozen science tag:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d28/tree/v0.1.0), commit `496e6373abbabfad5c2e99adfcb3994ce8e39531`.
+- **Tag CI:** [GitHub Actions run 44861309271](https://github.com/Topbrutus/polybrutus-d28/actions/runs/44861309271), success.
+- **Memoria index:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md .
+- **Permanent checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D28_PUBLICATION_2026-11-20.md .
+
 ## Repository evidence
 
 - [Specification](SPECIFICATION_D28.md), [exact proof](PREUVE_D28.md), [provenance](PROVENANCE.md).

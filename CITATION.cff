@@ -10,3 +10,5 @@ date-released: 2026-11-20
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d28
 abstract: "Exact 33-point Euclidean metric preserving all 496 parent labelled distances and a chosen ideal complete weighted-graph spectrum."
+doi: 10.5281/zenodo.24410652
+url: https://doi.org/10.5281/zenodo.24410652

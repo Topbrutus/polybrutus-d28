@@ -1,0 +1,5 @@
+# SHA-256 hashes of 3 files in Zenodo record 24410652
+# Tagged-source ZIP is a released external archive; note and certificate also exist on the frozen tag
+8fcb42369f64c86049aceaadcdbaf85ce50fa666bbaf401d26b02bdafec70f02  POLYBRUTUS_D28_SOURCE_v0.1.0_GITHUB_TAG.zip
+f202159a2bbd5472e64f25f5674ce5ab9f4356fe66c613dd84990a18390a3a3e  publication/POLYBRUTUS_28D_NOTE.pdf
+d21c21645bc96aa480c840fa24e12e755f6a21d8df8a1d51dac989c7caed1788  results/certificate_d28.json
